@@ -1,4 +1,8 @@
-# Aesthetic Function
+<p align="center">
+  <img src="./images/af-banner.png" alt="Aesthetic Function Banner" width="100%" />
+</p>
+
+<h1 align="left">Aesthetic Function</h1>
 
 Design systems break silently. Tokens drift between Figma and code. Components fall out of sync across frameworks. Documentation lags behind both. AI coding agents generate UI with no awareness of your system's constraints.
 
